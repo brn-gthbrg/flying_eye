@@ -1,5 +1,8 @@
+# DronePilot for reference
+# Tools/outside scripts
 import pymultiwii
 import opencv
+# Python library
 import gpiozero
 
 # Set PWM for each output

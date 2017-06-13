@@ -30,15 +30,15 @@ changeInY = midpoint[1] + angY
 adjustX = -changeInX
 adjustY = -changeInY
 
-# ***DON'T KNOW WHERE THIS STUFF GOES YET***
-		throttle.ChangeFrequency(freq)
-		throttle.ChangeDutyCycle(dc)
-		roll.ChangeFrequency(freq)
-		roll.ChangeDutyCycle(dc)
-		pitch.ChangeFrequency(freq)
-		pitch.ChangeDutyCycle(dc)
-		yaw.ChangeFrequency(freq)
-		yaw.ChangeDutyCycle(dc)
+# PROBABLY DONT NEED THIS
+		# throttle.ChangeFrequency(freq)
+		# throttle.ChangeDutyCycle(dc)
+		# roll.ChangeFrequency(freq)
+		# roll.ChangeDutyCycle(dc)
+		# pitch.ChangeFrequency(freq)
+		# pitch.ChangeDutyCycle(dc)
+		# yaw.ChangeFrequency(freq)
+		# yaw.ChangeDutyCycle(dc)
 
 
 def arm(throttle, roll, pitch, yaw)

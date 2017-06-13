@@ -1,4 +1,4 @@
-# DronePilot for reference
+# DronePilot in repo but not essential, for reference
 # Tools/outside scripts
 import pymultiwii
 import opencv

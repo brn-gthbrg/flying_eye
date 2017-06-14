@@ -33,7 +33,7 @@ Before you evoke on this project you must have the equiptment that we listed abo
 
 [Gina Benavidez](https://github.com/gbenavid)
 
-[Ken Sugiama](https://github.com/KennSugiyama)
+[Kenn Sugiama](https://github.com/KennSugiyama)
 
 [Elanie Gouvea](https://github.com/elaineGouvea)
 

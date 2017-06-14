@@ -16,15 +16,10 @@ args = vars(ap.parse_args())
 
 # define the lower and upper boundaries of the "yellow"
 # object in the HSV color space
-#yellowLower = (29, 86, 6)
-#yellowUpper = (64, 255, 255)
-
 
 yellowLower = (20, 100, 100)
 yellowUpper = (30, 255, 255)
 
-
- 
 # initialize the list of tracked points, the frame counter,
 # and the coordinate deltas
 pts = deque(maxlen=args["buffer"])
@@ -99,12 +94,6 @@ while True:
  
 		# check to see if enough points have been accumulated in
 		# the buffer
-#		if counter >= 10 and i == 10 and pts[i-10] is not None:
-			# compute the difference between the x and y
-			# coordinates and re-initialize the direction
-			# text variables
-#			dX = pts[i-10][0] - pts[i][0]
-#			dY = pts[i-10][1] - pts[i][1]
 
 		if counter >= 10 and i == 10 and pts[i-10] is not None:
 			# compute the difference between the x and y

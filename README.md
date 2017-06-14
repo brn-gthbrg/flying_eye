@@ -1,5 +1,5 @@
 # Flying Eye
-Developing an autonomous drone using a Raspberry Pi 3 follows a target via bluetooth.
+Developing an autonomous drone using a Raspberry Pi 3, and following a target via bluetooth.
 
 ## Getting Started
 
@@ -11,17 +11,17 @@ Developing an autonomous drone using a Raspberry Pi 3 follows a target via bluet
 * MultiWii Flight Controller with GPS
 * SF250 FPV Racing Drone Quadcopter
 
-### Installing
+#### Installing
 ---------------------
 * Python 3.6 - Scripts for raspberry pi
-* Libre Piolet -  Orientation Controll 
+* Libre Piolet -  Orientation Controll
+* pyMultiWii - Python Library
+* OpenCV - Python library
 * Beacon - Bluetooth 
 * Swift - Front End 
 
 ## Deployment
-
-## Built With
-
+Before you evoke on this project you must have the equiptment that we listed above.
 
 ## Contributing
 
@@ -40,7 +40,9 @@ Developing an autonomous drone using a Raspberry Pi 3 follows a target via bluet
 ## Licence
 
 ## Acknowledgments
-	* inspiration
-	* thank yous
+We would like to give a huge thank you to [Aldo Vargas](https://github.com/alduxvm) for creating an well documented Python library within the drone community, and for taking the time to advise and support us throughout this project. 
+
+We were inspired to create this project after a realization of this projects impact. The idea sources from [Brian Gothberg](https://github.com/brn-gthbrg) who realized how difficult it was to track his form while swimming. As a porfessional lifegard and developer he took the inititive to bring along three more members to built out his vision for a better way to improve his swimming skills.	
+
 
 ## Summarry

@@ -1,5 +1,6 @@
 # import the necessary packages
 from collections import deque
+from imutils.video import VideoStream
 import numpy as np
 import argparse
 import imutils
@@ -13,10 +14,10 @@ ap.add_argument("-b", "--buffer", type=int, default=32,
 	help="max buffer size")
 args = vars(ap.parse_args())
 
-# define the lower and upper boundaries of the "green"
-# ball in the HSV color space
-#greenLower = (29, 86, 6)
-#greenUpper = (64, 255, 255)
+# define the lower and upper boundaries of the "yellow"
+# object in the HSV color space
+#yellowLower = (29, 86, 6)
+#yellowUpper = (64, 255, 255)
 
 
 yellowLower = (20, 100, 100)

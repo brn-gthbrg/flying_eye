@@ -36,4 +36,4 @@ We would like to give a huge thank you to Aldo Vargas for creating an well docum
 We were inspired to create this project after a realization of this project's impact. The idea is sourced from [Brian Gothberg](https://github.com/brn-gthbrg) because of how difficult it was to track his form while swimming. As a professional lifegard and developer he took the inititive to bring along three more members to build out his vision for a better way to improve his swimming skills.
 
 ## Summary
-This is a work in process
+Clearly this is a work in process

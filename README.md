@@ -1,5 +1,5 @@
 # Flying Eye
-Developing an autonomous drone using a Raspberry Pi 3, and following a target via bluetooth.
+Developing an autonomous drone using a Raspberry Pi 3 to follow a person.
 
 ## Getting Started
 
@@ -21,14 +21,32 @@ Developing an autonomous drone using a Raspberry Pi 3, and following a target vi
 
 [Brian Gothberg](https://github.com/brn-gthbrg)
 
+[Elaine Gouvea](https://github.com/elaineGouvea)
+
 [Gina Benavidez](https://github.com/gbenavid)
 
 [Kenn Sugiama](https://github.com/KennSugiyama)
 
-[Elanie Gouvea](https://github.com/elaineGouvea)
-
 ## License
-This project is for non-commercial reuse only.
+Copyright (c) 2017 Flying Eye Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Acknowledgments
 We would like to give a huge thank you to Aldo Vargas for creating an well documented Python library within the drone community, and for taking the time to advise and support us throughout this project. 

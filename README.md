@@ -7,25 +7,15 @@ Developing an autonomous drone using a Raspberry Pi 3, and following a target vi
 
 #### Hardware
 ---------------------
-* Raspberry Pi 3 (running with Linux)
-* MultiWii Flight Controller with GPS
+* Raspberry Pi 3 (running Raspbian)
+* MultiWii Flight Controller
 * SF250 FPV Racing Drone Quadcopter
 
-#### Installing
+#### Install
 ---------------------
 * Python 3.6 - Scripts for raspberry pi
-* Libre Piolet -  Orientation Controll
 * pyMultiWii - Python Library
 * OpenCV - Python library
-* Beacon - Bluetooth 
-* Swift - Front End 
-
-## Deployment
-Before you evoke on this project you must have the equiptment that we listed above.
-
-## Contributing
-
-## Versioning 
 
 ## Authors
 
@@ -37,12 +27,13 @@ Before you evoke on this project you must have the equiptment that we listed abo
 
 [Elanie Gouvea](https://github.com/elaineGouvea)
 
-## Licence
+## License
+This project is for non-commercial reuse only.
 
 ## Acknowledgments
-We would like to give a huge thank you to [Aldo Vargas](https://github.com/alduxvm) for creating an well documented Python library within the drone community, and for taking the time to advise and support us throughout this project. 
+We would like to give a huge thank you to Aldo Vargas for creating an well documented Python library within the drone community, and for taking the time to advise and support us throughout this project. 
+) who rea
+We were inspired to create this project after a realization of this project's impact. The idea is sourced from [Brian Gothberg](https://github.com/brn-gthbrg) because of how difficult it was to track his form while swimming. As a professional lifegard and developer he took the inititive to bring along three more members to build out his vision for a better way to improve his swimming skills.
 
-We were inspired to create this project after a realization of this projects impact. The idea sources from [Brian Gothberg](https://github.com/brn-gthbrg) who realized how difficult it was to track his form while swimming. As a porfessional lifegard and developer he took the inititive to bring along three more members to built out his vision for a better way to improve his swimming skills.	
-
-
-## Summarry
+## Summary
+This is a work in process
